@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "42838e625bbe2c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "6103c0c0c90c74fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b31e82d63b837557",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19623062c0c21b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89816de22b9a8ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d8cd640eb80f78e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "995baa8380766c29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1212f45c63cd69dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7d0ee2fb868962c",
+    "type": "split",
+    "children": [
+      {
+        "id": "de1693cd1829ce38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee0290fd9f14bf23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docs/Monitored Endpoint.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f542290b5a5bd643",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docs/Monitored Endpoint.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "deebf497c4d8636b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "285911d450395171",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1b4e79ed7da5eb9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docs/Monitored Endpoint.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7d8cd640eb80f78e",
+  "lastOpenFiles": [
+    "Diagrams/topology 1.png",
+    "Docs/Architecture.md",
+    "readme.md",
+    "images/instance.png",
+    "Diagrams/SOC-ELK-ENVIRONMENT.png",
+    "images/elastic-service.jpeg",
+    "images/C2-workflow.png",
+    "images/endpoint-ssh-event.jpg",
+    "images/FLEET-Flow.png",
+    "images/FLEET-Policy.png",
+    "images/WIN-Victim.png",
+    "images/topology.png",
+    "images/SOC-Firewall.png",
+    "Docs/Attack Simulation & Detection.md",
+    "Docs/Incident Response & Ticketing.md",
+    "Docs/ELK Fleet.md",
+    "Docs/Project Status.md",
+    "Docs/Monitored Endpoint.md",
+    "Welcome.md",
+    "Untitled.md",
+    "Diagrams",
+    "images",
+    "New Folder",
+    "Docs"
+  ]
+}
