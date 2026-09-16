@@ -12,7 +12,7 @@ The environment combines **Elasticsearch, Kibana, Elastic Security, Fleet Server
 
 The core SOC infrastructure runs inside a Vultr environment using a private VPC (`172.31.0.0/24`), while attack simulations are performed from a local Arch Linux workstation.
 
-![workflow](diagrams/overall-workflow.png)
+![workflow](diagrams/flow.png)
 
 ---
 
@@ -144,6 +144,10 @@ Agent  : Apollo
 C2     : Mythic
 ```
 
+![endpoint](images/C2.jpeg)
+
+![endpoint](images/svchost.jpeg)
+
 This allowed C2-related endpoint activity to be generated while the Windows system remained monitored by Elastic.
 
 ---
@@ -179,6 +183,8 @@ The investigation included fields such as:
 - Authentication result
     
 
+![endpoint](images/endpoint-ssh-event.jpg)
+
 This demonstrates the workflow from **raw endpoint telemetry to centralized SOC investigation**.
 
 ---
@@ -208,8 +214,6 @@ Incident Tracking
 The final development stage was intended to automate:
 
 **Elastic Security Alert → API → osTicket Ticket**
-
-The osTicket platform was successfully deployed, but the API automation was **not completed** before the cloud environment was discontinued.
 
 ---
 

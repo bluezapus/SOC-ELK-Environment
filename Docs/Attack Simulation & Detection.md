@@ -124,7 +124,7 @@ from multiple external source addresses.
 
 > **Evidence:** Add screenshot of failed SSH authentication events in Kibana Discover.
 
-![SOC workflow](images/endpoint-ssh-event.jpg)
+![SOC event](images/endpoint-ssh-event.jpg)
 ---
 
 # Investigation Workflow
